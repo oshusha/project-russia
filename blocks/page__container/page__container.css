@@ -1,0 +1,15 @@
+.page__container {
+    width: 100%;
+    background: #2A2C2F;
+    margin: 0;
+    max-width: 1280px;
+    padding: 0 48px;
+
+    -webkit-font-smoothing: antialiazed;
+    -moz-osx-font-smoothing: grayscale;
+    text-rendering: optimizeLegibility;
+    -webkit-text-size-adjust: 100%;
+    -ms-text-size-adjust: 100%;
+    -moz-text-size-adjust: 100%;
+    text-size-adjust: 100%;
+}
